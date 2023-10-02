@@ -1,0 +1,14 @@
+/Users/seymacakmakci/Projects/Freelancer/Freelancer/obj/Debug/net7.0/Freelancer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seymacakmakci/Projects/Freelancer/Freelancer/obj/Debug/net7.0/Freelancer.AssemblyInfoInputs.cache
+/Users/seymacakmakci/Projects/Freelancer/Freelancer/obj/Debug/net7.0/Freelancer.AssemblyInfo.cs
+/Users/seymacakmakci/Projects/Freelancer/Freelancer/obj/Debug/net7.0/Freelancer.csproj.CoreCompileInputs.cache
+/Users/seymacakmakci/Projects/Freelancer/Freelancer/bin/Debug/net7.0/Freelancer
+/Users/seymacakmakci/Projects/Freelancer/Freelancer/bin/Debug/net7.0/Freelancer.deps.json
+/Users/seymacakmakci/Projects/Freelancer/Freelancer/bin/Debug/net7.0/Freelancer.runtimeconfig.json
+/Users/seymacakmakci/Projects/Freelancer/Freelancer/bin/Debug/net7.0/Freelancer.dll
+/Users/seymacakmakci/Projects/Freelancer/Freelancer/bin/Debug/net7.0/Freelancer.pdb
+/Users/seymacakmakci/Projects/Freelancer/Freelancer/obj/Debug/net7.0/Freelancer.dll
+/Users/seymacakmakci/Projects/Freelancer/Freelancer/obj/Debug/net7.0/refint/Freelancer.dll
+/Users/seymacakmakci/Projects/Freelancer/Freelancer/obj/Debug/net7.0/Freelancer.pdb
+/Users/seymacakmakci/Projects/Freelancer/Freelancer/obj/Debug/net7.0/Freelancer.genruntimeconfig.cache
+/Users/seymacakmakci/Projects/Freelancer/Freelancer/obj/Debug/net7.0/ref/Freelancer.dll
